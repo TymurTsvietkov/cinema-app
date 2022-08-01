@@ -1,4 +1,4 @@
-# cinema-service
+# cinema-app
 ### Project Description
 This is a simple application for buying cinema tickets. It represents work of such cinema's ticket-reservation system and has next functions:
 
